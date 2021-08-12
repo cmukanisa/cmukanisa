@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=cmukanisa&show_icons=true&count_private=true)
+
+<!--
+**RobinMalfait/RobinMalfait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <!--
 **cmukanisa/cmukanisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
