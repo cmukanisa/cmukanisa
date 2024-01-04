@@ -1,6 +1,6 @@
 
 <!-- ## Hi there 👋 -->
-## Full Stack Software Engineer, AI/ML Enthusiast 👋
+## Full Stack Software Engineer, AI/ML/LLM Enthusiast 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=cmukanisa&show_icons=true&count_private=true)
 
